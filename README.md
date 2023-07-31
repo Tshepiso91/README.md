@@ -1,4 +1,8 @@
-💫 About Me:
+Welcome........
+
+Glad you could stop by. I am Tshepiso Masekoameng and this is my Github with all the amazing projects I created. 
+
+ A little (lot) about me and what is ahead:
 
 👯 I’m looking to collaborate on:<br>I'm always open to collaborating on exciting web development projects and contributing to open-source initiatives. Whether it's frontend, backend, or full-stack development, I'm eager to join hands with like-minded developers to create innovative solutions and enhance the web experience.<br><br>🤝 I’m looking for help with:<br>While I'm confident in my web development skills, I'm constantly seeking opportunities to learn and grow. I welcome assistance and guidance from experienced developers, especially in the areas of advanced web technologies, cutting-edge frameworks, and incorporating AI into web applications.<br><br>🌱 I’m currently learning:<br>At the moment, I'm delving deeper into the world of  the MERN stack but I am super keen on harnessing knowledge on web3, NFT and crypto.<br><br>💬 Ask me about:<br>Feel free to ask me about anything related to web development, JavaScript, or best practices for building scalable and user-friendly applications. I'm passionate about sharing knowledge and helping others in their coding journey, so don't hesitate to reach out! I always learn best when I talk and teach tech <br><br>⚡ Fun fact:<br>In addition to being a tech enthusiast, I'm also an avid traveler and a huge foodie with a passion for candle making.<br><br>Connect with me, and let's embark on exciting web development journeys together! 🚀
 
